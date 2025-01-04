@@ -1,2 +1,2 @@
-# JAVA-Summarize (Not ccomplete yet)
+# JAVA-Summarize (Not complete yet)
 All commands JAVA
